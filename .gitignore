@@ -1,0 +1,7 @@
+# Ignorar archivos de configuración
+config.php
+.env
+
+# Ignorar directorios temporales o dependencias
+node_modules
+vendor
